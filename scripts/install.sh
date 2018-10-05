@@ -10,3 +10,7 @@ sudo systemctl enable grafana-server
 sudo yum install fontconfig
 sudo yum install freetype*
 sudo yum install urw-fonts
+
+# Creds
+# http://<server>:3000
+# user: admin, password: admin
